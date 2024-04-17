@@ -4,8 +4,8 @@
     color:black;
 }
 
-#signupfield{
-    margin:10vw;
+#signupfield, #outputField{
+    margin-top:10vw;
     margin-left:40vw;
     margin-right:40vw;
     background-color:skyblue;
@@ -15,4 +15,8 @@ body{
     background-image:url('background.avif');
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+#outputField{
+    margin-top:2vw;
 }
